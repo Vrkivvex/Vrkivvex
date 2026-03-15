@@ -15,7 +15,7 @@ Currently learning:
 ## My DevOps Notes
 
 📚 DevOps Learning Repository  
-https://github.com/Vrkvivex/git-for-devops
+https://github.com/Vrkivvex/git-for-devops
 
 ---
 
